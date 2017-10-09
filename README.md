@@ -3,6 +3,7 @@ Simple Blender UV Editor Tool to align selected UVs to the selection minimum or 
 It's best explained with a video:
 
 ![Demo gif](https://i.imgur.com/t5yehTF.gif)
+![Demo gif](https://i.imgur.com/w1iJR8X.gif)
 
 Installation:
 
